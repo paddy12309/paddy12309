@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Welcome to my profile, often neglected, I generally use Github to get code for work projects.
+
+### I do plan on putting home automation stuff here but havent gotten round to it yet... 🙄 
 <!--
 **paddy12309/paddy12309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
